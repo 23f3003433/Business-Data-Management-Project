@@ -4,4 +4,4 @@ This project is based on a gaming dataset EA SPORTS FC 25 DATABASE, RATINGS AND 
 
 The dataset is being gathered from the Kaggle Platform. The link for the kaggle platform for the datatset is https://www.kaggle.com/datasets/nyagami/ea-sports-fc-25-database-ratings-and-stats
 
-The project is being completed via secondary route 
+This project is being completed via secondary route.
